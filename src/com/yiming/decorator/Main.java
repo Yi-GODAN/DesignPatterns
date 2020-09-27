@@ -1,4 +1,4 @@
-package com.yiming.Decorator;
+package com.yiming.decorator;
 
 import java.io.*;
 
