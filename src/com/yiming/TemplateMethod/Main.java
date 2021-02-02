@@ -15,7 +15,7 @@ public class Main {
 }
 
 abstract class F {
-    void m() {
+    public void m() {
         op1();
         op2();
     }

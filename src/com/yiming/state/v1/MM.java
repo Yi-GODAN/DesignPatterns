@@ -8,7 +8,8 @@ package com.yiming.state.v1;
  */
 public class MM {
     String name;
-    private enum mmState {HAPPY, SAD}
+    private enum MMState {HAPPY, SAD}
+    MMState state;
 
     public void Smile() {
         //switch case
